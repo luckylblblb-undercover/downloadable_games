@@ -83,7 +83,7 @@ original websites:
 
 https://bighummus69.github.io
 
-@@ -64,3 +64,6 @@ https://calculatorgames.github.io/simplegimes
+https://calculatorgames.github.io/simplegimes
 https://outgoingmail.github.io
 
 https://outgoingmail.github.io/simplegimes
